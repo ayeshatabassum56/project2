@@ -1,0 +1,22 @@
+20  4  16
+EMP121	Ali	Undergradute	90516	Manager	A	4	3	1
+EMP122	Mehran	Postgradutae	84822	Manager	B	4	4	0
+EMP123	Suneel	Postgradutae	82708	Manager	B	4	4	2
+EMP124	Chanchal	Undergradute	97088	Manager	C	4	5	2
+EMP125	Waseem	Undergradute	55023	Developer	8	Web	Excellent
+EMP126	Rabia	Undergradute	62959	Developer	5	Andriod	Good
+EMP127	Shehzina	Undergradute	59910	Developer	7	Game	Normal
+EMP128	Azeem	Undergradute	78088	Developer	6	Web	Good
+EMP129	Ashraf	Postgradutae	75877	Developer	9	Andriod	Normal
+EMP130	Ahmad	Postgradutae	68096	Developer	10	Game	Excellent
+EMP131	Talha	Undergradute	56198	Developer	9	Game	Normal
+EMP132	Waheed	Undergradute	64581	Developer	9	Andriod	Good
+EMP133	Rehman	Postgradutae	57380	Developer	9	Web	Good
+EMP134	Raheem	Postgradutae	70858	Developer	9	Game	Good
+EMP135	Shakti	Undergradute	51397	Developer	5	Web	Excellent
+EMP136	Kumar	Postgradutae	63502	Developer	7	Game	Good
+EMP137	Arjun	Postgradutae	65429	Developer	7	Web	Excellent
+EMP138	Navya	Undergradute	70528	Developer	2	Game	Excellent
+EMP139	Hammad	Postgradutae	59293	Developer	2	Andriod	Normal
+EMP140	Sehran	Undergradute	67814	Developer	4	Andriod	Normal
+
